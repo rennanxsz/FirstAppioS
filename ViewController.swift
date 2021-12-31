@@ -65,6 +65,8 @@ class ViewController: UIViewController {
         viResult.isHidden = false
         view.endEditing(true)
     }
+    
+    
         
 }
 
